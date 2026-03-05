@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&text=CAUA%20HENRIQUE%20SANTOS%20SILVA&fontAlign=50&fontAlignY=34&color=0:05080f,45:0D1117,100:001a0a&fontColor=39FF14&desc=IT%20Specialist%20%7C%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=60&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&text=CAUA%20HENRIQUE&fontAlign=50&fontAlignY=35&color=0:05080f,45:0D1117,100:001a0a&fontColor=39FF14&desc=IT%20Specialist%20%7C%20Automation%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descAlign=50" />
+</div>
+
+<h2 align="center">Caua Henrique Santos Silva</h2>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Automation+Engineer;Focus%3A+AI+and+Data+Analysis" alt="typing animation" />
 </div>
 
 <div align="center">
